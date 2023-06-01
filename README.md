@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+## React Native Web Folder Boilerplate
+This folder must be placed on root path of your RN app. 
+To install dependencies better use yarn command.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
